@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\.android\build-cache\302f74e81de5cf9af6afcfa4448889639e961022\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28c627861146e8ffcb5c5c650e352ec6790e7d8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\.android\build-cache\f663134a1064bdddbcc45c3f69f5e0da9a2ff22e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c122b362f24d776ece505cd943363d001b3477f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_f5370c82cdbaa28194e5c6a8acf26178deda5f34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_53bdb63f27b0f3419879e13cba8fcdc6c6d63b21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\.android\build-cache\17f4efd2b5090fa4d793233aaec8ee0a70e0533f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d340eff1e54b4518dac522ae708fb4fe0f9a8912\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\.android\build-cache\4bf97680f25162b528a8c11b89ad630b0a6ac2be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1110b6175b4ea4d8b7ef737e8ae876beb991ca3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\.android\build-cache\0aa7677d94d49fc840309c8f820e08bb4b7ce3ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d435e5df20ac17a95c7a131ba22e83ee0fcf3141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b47eeb23d3ba03c4e93adf099e51cd9c6e862eaf">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f817ff13e53790aaf77fdec5bd6be8f2f4c1d4fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\.android\build-cache\809f2aec4ea9953395361b8a6fd87324af11bdbd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80e52b0d3f4ab37979698959c2da4310d0d80b4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_12a41f1b63e7b26f3b0378b46c67c8fba5fdd613\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\.android\build-cache\011fedd33ea6404d17a9fa027c5d7e4d8158cf08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_921b7cb16386f27547f098665ec96c9a84ba090e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\.android\build-cache\b68bdcdb85fda700897c9142406255439f1a1aee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a7ad1e4f29a21c44913301a46803ab6b64830f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\.android\build-cache\7f3d2668d1743ef5171bacdde03fc3399df691c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a89e901f65840dab1045473e3767de3217917864\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\18nsyed\.android\build-cache\1835ee3819aa0783f2dea8936f8660cd202a116f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\18nsyed\AndroidStudioProjects\ToDoWorkout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1cc1b20ce8184bd5ee89ff11014e7a8f687726a6\classes.dex" />
+    </item>
+
+</items>
